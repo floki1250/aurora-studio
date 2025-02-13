@@ -12,6 +12,7 @@
   "devDependencies": {
     "@inspira-ui/plugins": "^0.0.1",
     "@nuxt/devtools": "latest",
+    "@nuxthub/core": "0.8.17",
     "@nuxtjs/tailwindcss": "6.13.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
