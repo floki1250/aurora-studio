@@ -1,75 +1,12 @@
-# Nuxt UI Minimal Starter
+![logo](https://github.com/user-attachments/assets/34e9a2e2-ccba-4f05-a9c3-8a1f9eb2fe57)
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
+# Aurora Studio – The Ultimate SQL Management Tool
+Aurora Studio is a modern, powerful SQL editor designed for developers and database administrators. It provides an intuitive and fluent interface to manage multiple database connections, including Oracle DB, SQL Server, PostgreSQL, and more.
 
-## Setup
+With Aurora Studio, you can:
+✅ Write, execute, and debug SQL queries effortlessly.
+✅ Connect to multiple databases simultaneously.
+✅ Enjoy a sleek and responsive UI built with Vue and Python.
+✅ Deploy it as a standalone application with a seamless installation experience.
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Whether you're a database professional or a developer, Aurora Studio streamlines your workflow and enhances productivity
